@@ -12,7 +12,8 @@ namespace ApiConsoleApp
     {
         static void Main(string[] args)
         {
-            var gs = new GameSense();
+            var gs = new GameSense("MYGAME");
+            gs.
         }
     }
 }

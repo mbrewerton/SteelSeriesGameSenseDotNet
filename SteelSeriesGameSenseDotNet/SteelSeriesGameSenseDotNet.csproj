@@ -47,6 +47,7 @@
     <Compile Include="Exceptions\GameSenseException.cs" />
     <Compile Include="Models\CoreProps.cs" />
     <Compile Include="Models\GameEvent.cs" />
+    <Compile Include="Models\Game.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\GameSense.cs" />
     <Compile Include="Utils\ConfigUtil.cs" />
